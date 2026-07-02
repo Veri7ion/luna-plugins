@@ -1,4 +1,4 @@
-name: "Validate & Build"
+name: Validate & Build
 
 on:
   workflow_call:
@@ -19,14 +19,11 @@ jobs:
       - name: Install Node.js 📥
         uses: actions/setup-node@v4
         with:
-          cache: pnpm
           node-version: latest
-
-      - name: Allow build scripts to run
-        run: pnpm approve-builds
+          cache: pnpm
 
       - name: Install dependencies 📥
-        run: pnpm install
+        run: pnpm install --frozen-lockfile
 
       - name: Build
         run: pnpm run build
