@@ -1,7 +1,6 @@
 packages:
   - "plugins/*"
 
-onlyBuiltDependencies:
-  - electron
-  - esbuild
-  - sharp
+allowBuilds:
+  electron: true
+  esbuild: true
