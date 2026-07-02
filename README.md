@@ -22,11 +22,6 @@ This README is auto-generated from the plugin metadata in the `plugins/` folder.
 - **Version**: 0.0.0
 - **Author**: jxnxsdev
 
-### @jxnxsdev/fadeout
-- **Description**: Fades out the song to the end of a track and makes a smooth transition to the next one.
-- **Version**: 0.0.0
-- **Author**: jxnxsdev
-
 ### @jxnxsdev/lyrics-everywhere
 - **Description**: Lyrics fixed to the bottom of the screen.
 - **Version**: 0.0.0
@@ -37,11 +32,6 @@ This README is auto-generated from the plugin metadata in the `plugins/` folder.
 - **Version**: 0.0.0
 - **Author**: jxnxsdev
 
-### @jxnxsdev/playlist-export
-- **Description**: Exports playlists to a m3u8 file.
-- **Version**: 0.0.0
-- **Author**: jxnxsdev
-
 ### @jxnxsdev/qr-share
 - **Description**: Adds a sharing option to the context menu of songs, albums, playlists, and artists that generates a QR code linking to the item.
 - **Version**: 0.0.0
@@ -49,17 +39,6 @@ This README is auto-generated from the plugin metadata in the `plugins/` folder.
 
 ### @jxnxsdev/spinny-cover
 - **Description**: Puts the Song Cover Image as the background and makes it spin.
-- **Version**: 0.0.0
-- **Author**: jxnxsdev
-
-### @jxnxsdev/syncify
-- **Description**: Allows you to play Spotify playlists on Tidal. Requires spotify premium from the 2026-03-09 onwards.
-- **Version**: 0.0.0
-- **Author**: jxnxsdev
-
-### @jxnxsdev/tidal-wave
-- **Description**: THIS PLUGIN IS STILL IN DEVELOPMENT AND DOES NOT WORK YET!!!!
-Tidal Wave allows multiple people adding songs to the tidal queue. No addional tidal account required.
 - **Version**: 0.0.0
 - **Author**: jxnxsdev
 
