@@ -22,8 +22,8 @@ import { settings } from "./Settings";
 
 let lyricsMap: Map<number, string> = new Map();
 let currentCoverColors: { primary: string; accent: string } = {
-  primary: "#ff6b35",
-  accent: "#ff8c42",
+  primary: "#37f8a8",
+  accent: "#00D68F",
 };
 
 export const unloads = new Set<LunaUnload>();
